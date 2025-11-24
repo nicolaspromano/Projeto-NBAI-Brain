@@ -3,7 +3,7 @@
 * Nicolas Romano
 * Maria Eduarda Romana
 
---
+---
 
 # 🏀 NBAI Brain: Análise e Previsão na NBA (Sistemas Inteligentes II)
 
