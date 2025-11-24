@@ -5,7 +5,7 @@
 
 ---
 
-# 🏀 NBAI Brain: Análise e Previsão na NBA (Sistemas Inteligentes II)
+# 🏀 NBAI Brain: Análise e Previsão na NBA
 
 O **NBAI Brain** é um projeto de **Sistemas Inteligentes** desenvolvido em Python que utiliza modelos de *Machine Learning* para extrair *insights* do desempenho de jogadores e prever resultados de jogos da NBA. A aplicação é totalmente interativa e construída com **Streamlit**.
 
